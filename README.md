@@ -8,8 +8,6 @@ HTML for structuring web pages and content.
 SCSS (Sassy CSS) for convenient and structured styling.
 NPM (Node Package Manager) for managing dependencies and project build.
 "Mobile First" approach to development, allowing for adaptive design across different screen sizes.
-Responsive design to ensure optimal display and interaction on various devices.
-Preview and layout links are not provided in the text of your query. If possible, please add them for more specific information.
 
 Additional instructions to run the project:
 
